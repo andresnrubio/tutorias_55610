@@ -1,0 +1,56 @@
+[
+  {
+    "title": "producto de ejemplo",
+    "description": "esta es una descripción de ejemplo",
+    "price": 1,
+    "thumbnail": "ruta/de/imagen.jpg",
+    "code": "PRODUCTO_001",
+    "stock": 14,
+    "id": 1
+  },
+  {
+    "title": "producto de ejemplo",
+    "description": "esta es una descripción de ejemplo",
+    "price": 4500,
+    "thumbnail": "ruta/de/imagen.jpg",
+    "code": "PRODUCTO_002",
+    "stock": 23,
+    "id": 4
+  },
+  {
+    "title": "producto de ejemplo",
+    "description": "esta es una descripción de ejemplo",
+    "price": 4500,
+    "thumbnail": "ruta/de/imagen.jpg",
+    "code": "PRODUCTO_002",
+    "stock": 23,
+    "id": 5
+  },
+  {
+    "title": "producto de ejemplo",
+    "description": "esta es una descripción de ejemplo",
+    "price": 4500,
+    "thumbnail": "ruta/de/imagen.jpg",
+    "code": "PRODUCTO_002",
+    "stock": 23,
+    "id": 6
+  },
+  {
+    "title": "producto de ejemplo",
+    "description": "esta es una descripción de ejemplo",
+    "price": 4500,
+    "thumbnail": "ruta/de/imagen.jpg",
+    "code": "PRODUCTO_002",
+    "stock": 23,
+    "id": 7
+  },
+  {
+    "title": "producto de ejemplo",
+    "description": "esta es una descripción de ejemplo",
+    "price": 4500,
+    "thumbnail": "ruta/de/imagen.jpg",
+    "code": "PRODUCTO_002",
+    "stock": 23,
+    "id": 8
+  }
+]
